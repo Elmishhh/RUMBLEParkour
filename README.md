@@ -11,32 +11,32 @@ disallowed moves:<replace this with the moves you want to disable>
 disallowed shiftstones:<replace this with the shiftstones you want to disable if they're requiped when you start the parkour>
 
 ## disallowed move names:
->           "explode",
-            "flick",
-            "parry",
-            "hold",
-            "dash",
-            "cube",
-            "uppercut",
-            "jump",
-            "wall",
-            "kick",
-            "stomp",
-            "ball",
-            "disc",
-            "straight",
-            "pillar",
-            "sprint" (yes you can disable sprint if you want i think)
+>            "explode",
+>            "flick",
+>            "parry",
+>            "hold",
+>            "dash",
+>            "cube",
+>            "uppercut",
+>            "jump",
+>            "wall",
+>            "kick",
+>            "stomp",
+>            "ball",
+>            "disc",
+>            "straight",
+>            "pillar",
+>            "sprint" (yes you can disable sprint if you want i think)
 
 ##disallowed shiftstone names
->           "Vigor",
-            "Guard",
-            "Flow",
-            "Stubborn",
-            "Charge",
-            "Volatile",
-            "Surge",
-            "Adamant"
+>            "Vigor",
+>            "Guard",
+>            "Flow",
+>            "Stubborn",
+>            "Charge",
+>            "Volatile",
+>            "Surge",
+>            "Adamant"
 
 ## the words before the : dont matter but please keep the : there
 
