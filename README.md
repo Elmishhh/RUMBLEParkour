@@ -28,7 +28,7 @@ disallowed shiftstones:<replace this with the shiftstones you want to disable if
 >            "pillar",
 >            "sprint" (yes you can disable sprint if you want i think)
 
-##disallowed shiftstone names
+## disallowed shiftstone names
 >            "Vigor",
 >            "Guard",
 >            "Flow",
