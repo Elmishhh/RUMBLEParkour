@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34622.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RUMBLEParkour", "RUMBLEParkour\RUMBLEParkour.csproj", "{ED298766-53EF-46BA-A41B-613403F8ECCF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ED298766-53EF-46BA-A41B-613403F8ECCF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ED298766-53EF-46BA-A41B-613403F8ECCF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2F5B6FDE-80B0-4103-B125-10A8D147AE84}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Project>
+	<PropertyGroup>
+		<GamePath>C:\Steam\steamapps\common\RUMBLE</GamePath>
+		<GameAssemblyPath>$(GamePath)\MelonLoader\Managed</GameAssemblyPath>
+		<PluginsPath>$(GamePath)\Mods</PluginsPath>
+	</PropertyGroup>
+	<PropertyGroup Condition="'$(CI)'=='TRUE'">
+		<GameAssemblyPath>.\Libs</GameAssemblyPath>
+		<PluginsPath>.\Libs</PluginsPath>
+		<WarningLevel>0</WarningLevel>
+	</PropertyGroup>
+</Project>
